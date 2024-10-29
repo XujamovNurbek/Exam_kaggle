@@ -12,6 +12,7 @@
 
 ## This was checked by ROC-AUC. And a competition was created based on its value. The higher the value of ROC-AUC, the better the quality of our model. But the value of ROC-AUC can be false. For example, the data in the file may be memorized by the model. We wanted the model to not memorize the data as much as possible and use the data wisely. And I did it to the best of my ability.
 
+
 ### Ru
 
 ## Вот несколько файлов: test.csv и train.csv — это данные, которые нам предоставлены. У нас есть данные в «смокинге» train.csv. и загрузите test.csv. Нам нужно создать модель и использовать ее для создания столбца «смокинг» для test.csv и посмотреть, насколько хорошо он работает.
